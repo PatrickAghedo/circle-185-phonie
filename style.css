@@ -267,7 +267,8 @@ form .txt_field {
   padding: 10px 0;
 }
 .footer-div{
-  background: darkgray;
+  background: #111;
+  color: white;
   text-align: center;
   padding: 10px 0;
 }
