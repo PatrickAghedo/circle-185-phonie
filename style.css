@@ -260,3 +260,20 @@ form .txt_field {
 /* bookings  */
 
 
+/* Footer  */
+.footer-container{
+  background: lightgray;
+  text-align: center;
+  padding: 10px 0;
+}
+.footer-div{
+  background: darkgray;
+  text-align: center;
+  padding: 10px 0;
+}
+.footer-text{
+  color: blue;
+}
+div > a:hover{
+  color: red;
+}
