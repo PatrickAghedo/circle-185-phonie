@@ -262,9 +262,8 @@ form .txt_field {
 
 /* Footer  */
 .footer-container{
-  background: lightgray;
   text-align: center;
-  padding: 10px 0;
+  padding: 10px 40px;
 }
 .footer-div{
   background: #111;
